@@ -1,11 +1,12 @@
 # Robotics
 I love Robotics!
 
+#####################################################################
 Project 1: Boxing game (Processing interactive project)
 
 How to run the game?
 
-Accelerator with arduino has to be setup, the source code for theararduino microcontroller can be found  in the "boxing game" file.
+Accelerator with arduino has to be setup, the source code for theararduino microcontroller can be found in the "boxing game" file.
 
 Stick or fastern two sets of arduino board and accelerometer onto two boxing gloves, connect the USB wire to the computer.
 

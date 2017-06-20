@@ -1,7 +1,4 @@
-# Robotics
-I love Robotics!
 
-_______________________________________________________________________________________________
 Project 1: Boxing game (Processing interactive project)
 
 How to run the game?
